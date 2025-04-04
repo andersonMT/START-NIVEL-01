@@ -8,14 +8,16 @@ h1 {
     color: black;
     letter-spacing: normal;
     
+    
    
 }
  
 body {
-   background-image: url(backgroude2.jpg);
+   background-color: white;
    background-position:unset;
    background-size: 100%;
-   
+
+
 
 
 
@@ -24,3 +26,5 @@ body {
 
 
 }
+
+
