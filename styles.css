@@ -13,8 +13,8 @@ h1 {
 }
  
 body {
-   background-color: white;
-   background-position:unset;
+   background-image: url(back02.jpg);
+   background-position: center;
    background-size: 100%;
 
 
@@ -26,5 +26,4 @@ body {
 
 
 }
-
 
